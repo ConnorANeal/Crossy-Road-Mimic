@@ -1,19 +1,5 @@
 ### CONNOR NEAL & CADEN HINSHAW ###
 
-### TIME SPENT ###
-
-# Connor: 11 hours
-# Caden: 3 hours
-# Total: 14 hours
-
-### WHO DID WHAT ###
-
-# Connor: Main Menu, Settings, The Actual Game
-# Caden: The Actual Game
-
-##### THE CODE #####
-# 749 Lines
-
 from tkinter import *
 import random
 import tkinter as tk
